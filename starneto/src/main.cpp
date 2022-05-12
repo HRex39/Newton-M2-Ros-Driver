@@ -16,7 +16,6 @@
 */
 
 #include <ros/ros.h>
-#include <slcurses.h>
 #include "starneto_mems.hpp"
 
 
